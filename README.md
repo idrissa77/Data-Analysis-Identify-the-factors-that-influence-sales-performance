@@ -16,7 +16,7 @@ Analyze qualitative-qualitative, qualitative-quantitative, and quantitative-quan
 
 ## Dataset
 
-The dataset used is from Kaggle and contains detailed information about customers, products, and business performance of a fictional supermarket. 
+The dataset used is from Kaggle [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download) and contains detailed information about customers, products, and business performance of a fictional supermarket. 
 
 Each record includes the following columns:
 
